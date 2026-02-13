@@ -4,6 +4,7 @@
 
 <img width="940" height="472" alt="image" src="https://github.com/user-attachments/assets/d581afbc-2116-48ab-994a-7bcc573390a6" />
 ---
+
 ##Overview Report
 
 The Personal Expenses Dashboard is a financial monitoring and reporting analysis designed to provide a clear and structured overview of an individual’s income, expenses, savings performance, and spending behaviour. The dashboard consolidates financial data into visual summaries and key performance indicators (KPIs) to support informed budgeting, better financial planning, and improved money management.
@@ -19,7 +20,8 @@ This identifies transaction behaviour patterns and potential overreliance on cer
 
 Trend analysis visualizes how income and spending change over time using bar charts. This analysis helps evaluate liquidity management and spending concentration.
 
-##Conclusion
+
+###Conclusion
 
 The Personal Expenses Dashboard provides a comprehensive overview of financial activity by integrating income tracking, expense categorization, savings and spending ratings, payment behaviour analysis, and trend monitoring.
 By offering clear financial visibility, the dashboard enhances budgeting decisions, promotes responsible spending, strengthens savings discipline, and supports long-term financial stability.
