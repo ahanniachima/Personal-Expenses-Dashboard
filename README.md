@@ -13,7 +13,7 @@ This report presents an overview of the key components and analytical features t
 This metric establishes the financial baseline for evaluating spending and savings performance. The total expenses summarize all recorded expenditures within this two-year period. This helps identify high-spending areas and potential cost-reduction opportunities.
 The Balance (Net Position) represents the net financial outcome after deducting total expenses from total income, it provides a quick assessment of overall financial health.
 
-The dashboard evaluates savings efficiency using a Savings Rate. This indicator encourages disciplined saving habits and long-term financial stability. While the Spending Rating measures how responsibly income is being utilized. It is typically based on the spending-to-income ratio.
+This dashboard evaluates savings efficiency using a Savings Rate. This indicator encourages disciplined saving habits and long-term financial stability. While the Spending Rating measures how responsibly income is being utilized. It is typically based on the spending-to-income ratio.
 
 The dashboard analyses the distribution of expenses across different payment channels, 
 This identifies transaction behaviour patterns and potential overreliance on certain payment methods.
@@ -23,5 +23,5 @@ Trend analysis visualizes how income and spending change over time using bar cha
 
 **Conclusion**
 
-The Personal Expenses Dashboard provides a comprehensive overview of financial activity by integrating income tracking, expense categorization, savings and spending ratings, payment behaviour analysis, and trend monitoring.
-By offering clear financial visibility, the dashboard enhances budgeting decisions, promotes responsible spending, strengthens savings discipline, and supports long-term financial stability.
+This Personal Expenses Dashboard provides a comprehensive overview of financial activity by integrating income tracking, expense categorization, savings and spending ratings, payment behaviour analysis, and trend monitoring.
+By offering this clear financial visibility, the dashboard enhances budgeting decisions, promotes responsible spending, strengthens savings discipline, and supports long-term financial stability.
