@@ -1,7 +1,7 @@
 # Personal-Expenses-Dashboard
 ---
 <img width="939" height="470" alt="image" src="https://github.com/user-attachments/assets/6f0d7835-eb81-467e-b244-e3c7463bc060" />
----
+
 <img width="940" height="472" alt="image" src="https://github.com/user-attachments/assets/d581afbc-2116-48ab-994a-7bcc573390a6" />
 ---
 ##Overview Report
